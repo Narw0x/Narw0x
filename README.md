@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snikel</h1>
 <h3 align="center">A Junior Web developer from Slovakia</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **martin.synak123@gmail.com**
 
